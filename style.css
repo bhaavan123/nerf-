@@ -1,0 +1,26 @@
+img{
+    width:500px;
+    height:250px;
+    
+}
+body{
+    background-color:aqua;
+    text-align: center;
+    font-size: 30px;
+}
+#mycarousel{
+    background-color: aqua;
+    margin-top: 20px;
+    font-size: 30px;
+   border-width:10px;
+    border-style: solid;
+    border-color: deeppink;
+}
+#nerf{
+    background-color: deeppink;
+    margin: 20px;
+    border-width: 10px;
+    border-style: solid;
+    border-color:deepskyblue;
+    padding-top: 10px;
+}
